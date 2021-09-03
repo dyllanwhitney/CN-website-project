@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    font-size: 50px;
+}
+   
+* {
+    background-color:rgb(127, 140, 255);
+    font-size: 30px;
+}
+.center {
+    text-align: center;
+}
+
+/* * {
+    property: value;
+    property: value;
+} */
